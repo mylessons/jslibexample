@@ -1,0 +1,24 @@
+{
+  "name": "jslibexample",
+  "version": "1.0.0",
+  "description": "example of a js lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mylessons/jslibexample.git"
+  },
+  "keywords": [
+    "lib",
+    "js",
+    "example"
+  ],
+  "author": "mylessons <alphawyte@gmail.com> (http://www.alphawyte.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mylessons/jslibexample/issues"
+  },
+  "homepage": "https://github.com/mylessons/jslibexample#readme"
+}
