@@ -2,7 +2,7 @@
 # Created by .ignore support plugin (hsz.mobi)
 
 .idea/
-
+node_modules
 =======
 .idea/
 >>>>>>> 2bf37c8779be97df4a7ccadcb35d40a83c4aef47
